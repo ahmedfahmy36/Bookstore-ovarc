@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OVARC TASK
 
 ## Tech Stack
@@ -64,3 +65,6 @@ Routes
 - /browse-authors: Browse all authors with their published book counts.
 
 
+=======
+# Bookstore-ovarc
+>>>>>>> 18bda63af0c75e6ba976d481606740e666518763
