@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "book_id": 7,
+    "store_id": 5,
+    "price": 24.99
+  },
+  {
+    "id": 2,
+    "book_id": 7,
+    "store_id": 12,
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "book_id": 15,
+    "store_id": 5,
+    "price": 19.99
+  },
+  {
+    "id": 4,
+    "book_id": 22,
+    "store_id": 5,
+    "price": 34.99
+  },
+  {
+    "id": 5,
+    "book_id": 15,
+    "store_id": 8,
+    "price": 21.99
+  },
+  {
+    "id": 6,
+    "book_id": 42,
+    "store_id": 8,
+    "price": 15.99
+  },
+  {
+    "id": 7,
+    "book_id": 56,
+    "store_id": 12,
+    "price": 25.99
+  },
+  {
+    "id": 8,
+    "book_id": 89,
+    "store_id": 5,
+    "price": 45.99
+  },
+  {
+    "id": 9,
+    "book_id": 102,
+    "store_id": 8,
+    "price": 32.99
+  },
+  {
+    "id": 10,
+    "book_id": 102,
+    "store_id": 12,
+    "price": 29.99
+  },
+    
+    {
+        "id": 11,
+        "book_id": 15,
+        "store_id": 5,
+        "price": 19.99
+    },
+    {
+        "id": 12,
+        "book_id": 22,
+        "store_id": 5,
+        "price": 34.99
+    },
+    {
+        "id": 13,
+        "book_id": 42,
+        "store_id": 8,
+        "price": 15.99
+    },
+    {
+        "id": 14,
+        "book_id": 56,
+        "store_id": 12,
+        "price": 25.99
+    }
+]
